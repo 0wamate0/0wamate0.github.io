@@ -61,15 +61,19 @@
   },
   {
     "number": 5,
-    "route": "23U",
-    "destZ": "豬怕南",
-    "destY": "馬嶺",
-    "maxPZ": "1",
-    "priceZ1": "4.3",
-    "halfpriceZ1": "2.2",
-    "maxPY": "1",
-    "priceY1": "4.3",
-    "halfpriceY1": "2.2"
+    "route": "30",
+    "destZ": "紀念碑",
+    "destY": "馬嶺馬凱道",
+    "maxPZ": "2",
+    "priceZ1": "5.5",
+    "halfpriceZ1": "2.8",
+    "priceZ2": "4.8",
+    "halfpriceZ2": "2.4",
+    "maxPY": "2",
+    "priceY1": "5.5",
+    "halfpriceY1": "2.8",
+    "priceY2": "4.3",
+    "halfpriceY2": "2.2"
   },
   {
     "number": 6,
