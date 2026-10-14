@@ -1,6 +1,6 @@
 [
   {
-    "route":"WWB",
+    "route":"NIS",
     "direction":0,
     "NextStop":1,
     "Chi":"歡迎乘搭永榮巴士",
@@ -10,7 +10,7 @@
     "Notification":0
   },
   {
-    "route":"WWB",
+    "route":"NIS",
     "direction":1,
     "NextStop":1,
     "Chi":"歡迎乘搭永榮巴士",
