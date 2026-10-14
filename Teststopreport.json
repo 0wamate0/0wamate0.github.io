@@ -228,5 +228,25 @@
     "Eng":"THANK YOU\nFOR TRAVELLING",
     "EngSoundId":"rbxassetid://199985327925",
     "Notification":0
+  },
+  {
+    "route":"ABC",
+    "direction":0,
+    "NextStop":1,
+    "Chi":"歡迎乘搭永榮巴士",
+    "ChiSoundId":"",
+    "Eng":"WELCOME ONBOARD",
+    "EngSoundId":"",
+    "Notification":0
+  },
+  {
+    "route":"ABC",
+    "direction":1,
+    "NextStop":1,
+    "Chi":"歡迎乘搭永榮巴士",
+    "ChiSoundId":"",
+    "Eng":"WELCOME ONBOARD",
+    "EngSoundId":"",
+    "Notification":0
   }
 ]
